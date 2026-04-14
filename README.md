@@ -1,7 +1,7 @@
 # Frequency-aware Decomposition Network (FDN)
 Official implementation of `*Frequency-aware decomposition learning for sensorless wrench forecasting on a vibration-rich hydraulic manipulator*' (2026).
 
-### **Code and data will be made available after publication.**
+### **Code and data will be made available upon publication.**
 
 <!-- 
 Requires ```python==3.10``` ```cuda>=11.8```
